@@ -1,0 +1,12 @@
+@import './_test.scss';
+
+//@include thing
+
+.jesus {
+    color: red;
+    .wept {
+        &:after {
+            content: 'Haleluja';
+        }
+    }
+}

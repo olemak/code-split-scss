@@ -1,0 +1,8 @@
+.adam {
+    color: blue;
+    .ant {
+        &:after {
+            content: 'Stand and deliver';
+        }
+    }
+}

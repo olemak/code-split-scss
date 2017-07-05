@@ -1,0 +1,21 @@
+{
+  "name": "whap",
+  "version": "1.0.0",
+  "description": "Nothing much. Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ole Martin Kristiansen",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2"
+  },
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^2.1.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.0.0"
+  }
+}
